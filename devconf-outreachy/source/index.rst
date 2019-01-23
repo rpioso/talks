@@ -2,7 +2,12 @@
 Becoming OpenStack Developer via Outreachy
 ==========================================
 
-Presented by: *Aija Jauntēva (intern), Dmitry Tantsur (mentor), Richard Pioso (industry expert), Ilya Etingof (mentor)*
+Presented by:
+
+* Aija Jauntēva (intern)
+* Dmitry Tantsur (mentor)
+* Richard Pioso (industry expert)
+* Ilya Etingof (mentor)
 
 In this talk
 ------------
@@ -13,13 +18,13 @@ In this talk
 
 .. Things to talk about ^ (ietingof)
 
-In our talk, we will explain what the Outreachy program is all about,
-and why we decided to participate in it.
+  In our talk we will explain what the Outreachy program is all about,
+  why we decided to participate in it.
 
-We will share our experiences and lessons learned.
+  We will tell about our experience and lessons learned.
 
-Finally, we will think aloud why this program may or may not be
-for you.
+  Finally, we will think aloud why this program may or may not be
+  for you.
 
 Why we do this?
 ---------------
@@ -79,7 +84,7 @@ About Outreachy
 
 What is Outreachy?
 
-  * Volunteer organization under Software Freedom Conservancy
+  * Non-profit organization under Software Freedom Conservancy
   * Brings together interns, mentors, and code
   * Promotes diversity and free software
 
@@ -329,7 +334,7 @@ Work-wise:
 
 Community:
 
-* Network interns with the upstream community
+* Help network interns with the upstream community
 * Involve interns in code reviews
 
 Psychologically:
